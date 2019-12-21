@@ -1,6 +1,7 @@
 # Hall-Booking-System
 I have made Hall Booking System using HTML, CSS, and Php.
 In this System, User can Book a Hall for particular date and can make Payment through Paytm gateway.
+First Download this prject and Run on server.
 
 Steps for Paytm Configuration:
  1. Copy PaytmKit folder in document root of your server (like /var/www/html)
