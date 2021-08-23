@@ -5,8 +5,7 @@ A Web Application to book Banquet Halls and Auditoriums in nearby cities.
 - Sorting and Searching feature
 - Easy to use
 - Online Payment Gateway
-I have made Hall Booking System using HTML, CSS, and Php.
-In this System, User can Book a Hall for particular date and can make Payment through Paytm gateway.
+# Steps to Run
 First Download this project and Run on server.
 
 Steps for Paytm Configuration:
@@ -18,7 +17,7 @@ Steps for Paytm Configuration:
  3. PaytmKit folder is having following files:
     - TxnTest.php – Testing transaction through Paytm gateway.
     - pgRedirect.php – This file has the logic of checksum generation and passing all required parameters to Paytm PG. 
-    - pgResponse.php – This file has the logic for processing PG response after the transaction        processing.
+    - pgResponse.php – This file has the logic for processing PG response after the transaction processing.
     - TxnStatus.php – Testing Status Query API
 
 # For Offline(Wallet Api) Checksum Utility below are the methods:
