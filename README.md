@@ -1,4 +1,10 @@
-# Hall-Booking-System
+# BookNow
+A Web Application to book Banquet Halls and Auditoriums in nearby cities.
+# Features: 
+- Filtering Option based on Location, Cost, Capacity etc.
+- Sorting and Searching feature
+- Easy to use
+- Online Payment Gateway
 I have made Hall Booking System using HTML, CSS, and Php.
 In this System, User can Book a Hall for particular date and can make Payment through Paytm gateway.
 First Download this project and Run on server.
